@@ -37,7 +37,7 @@
 
 <p align="left">My name is Evgeny Shut<br>
 <br>- 🔭 I’m a software automation expert, bringing nearly 5 years of hands-on experience as an engineer in several IT companies
-<br>- ⚡ Currently leading a team of 3 engineers building an applications for businesses
+<br>- ⚡ Currently leading a team of 3 engineers building applications for businesses
 <br>- 🔥 I'm taking personal projects in my free time - feel free to contact me</p>
 
 #### 
