@@ -40,6 +40,9 @@
 <br>- ⚡ Currently leading a team of 3 engineers building an applications for businesses
 <br>- 🔥 I'm taking personal projects in my free time - feel free to contact me</p>
 
+#### 
+🛠️ Example of my approach: [PlayWright API/UI testing and automation Framework on Python](https://github.com/eshut/Inject-Framework)
+
 ###
 
 <h3 align="left">🛠 Language and tools</h3>
