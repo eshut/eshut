@@ -77,7 +77,8 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com/?user=eshut&theme=dark&hide_border=false&border_radius=4.5&locale=en&short_numbers=false&date_format=&mode=daily&type=svg&background-type=solid&properties=background" height="220" alt="streak graph"  />
+            
 </div>
 
 ###
