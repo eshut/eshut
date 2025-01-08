@@ -80,5 +80,8 @@
   <img src="https://streak-stats.demolab.com/?user=eshut&theme=dark&hide_border=false&border_radius=4.5&locale=en&short_numbers=false&date_format=&mode=daily&type=svg&background-type=solid&properties=background" height="220" alt="streak graph"  />
             
 </div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eshut&theme=default&show_icons=true&hide_border=true&layout=compact">
+</div>
 
 ###
