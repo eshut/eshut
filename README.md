@@ -14,7 +14,7 @@
 <a href="https://www.upwork.com/freelancers/~0100a3045031454e73" target="_blank">
   <img src="https://img.shields.io/static/v1?message=upwork&logo=upwork&label=&color=#6fda44&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="upwork logo"/>
 </a>
-<a href="https://yawdev.org/" target="_blank">
+<a href="https://bytegeometry.com/" target="_blank">
   <img src="https://img.shields.io/static/v1?message=My Agency&label=&color=6366f1&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="YawDev Agency logo"/>
 </a>
 </div>
