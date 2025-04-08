@@ -15,7 +15,7 @@
   <img src="https://img.shields.io/static/v1?message=upwork&logo=upwork&label=&color=#6fda44&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="upwork logo"/>
 </a>
 <a href="https://bytegeometry.com/" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=My Agency&label=&color=6366f1&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="YawDev Agency logo"/>
+  <img src="https://img.shields.io/static/v1?message=My Agency&label=&color=6366f1&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="ByteGeometry Agency logo"/>
 </a>
 </div>
 
