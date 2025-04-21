@@ -29,7 +29,7 @@
 
 Software Automation & Software Development
 ---------------------------------------------------
-> 📅 <em>**If you want to have a conversation with me, schedule a short 30-minute meeting [here](https://calendly.com/evgeny-shut1/).**</em>
+// > 📅 <em>**If you want to have a conversation with me, schedule a short 30-minute meeting [here](https://calendly.com/evgeny-shut1/).**</em>
 
 <h1 align="center">Hey there 👋</h1>
 
