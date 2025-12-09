@@ -11,10 +11,7 @@
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" 
        height="25" alt="linkedin logo"/>
 </a>
-<a href="https://bytegeometry.com/" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=ByteGeometry&label=&color=f94934&logoColor=white&labelColor=&style=for-the-badge"
-    height="25" alt="ByteGeometry Agency logo"/>
-</a>
+
 </div>
 
 ###
@@ -25,7 +22,7 @@
 
 ###
 
-Software Automation & Software Development
+Software Automation & Quality Assurance
 ---------------------------------------------------
 
 <h1 align="center">Hey there 👋</h1>
@@ -37,8 +34,8 @@ Software Automation & Software Development
 ###
 
 <p align="left">My name is Evgeny Shut<br>
-<br>- 🔭 I’m a software automation expert, bringing nearly 5 years of hands-on experience as an engineer in several IT companies
-<br>- ⚡ Currently leading a team of 7 engineers building applications for businesses
+<br>- 🔭 I’m a software automation expert, bringing nearly 6+ years of hands-on experience as an engineer in several IT companies
+<br>- ⚡ Currently leading a team of 4 engineers building applications for businesses
 <br>- 🔥 I'm taking personal projects in my free time - feel free to contact me</p>
 
 #### 
