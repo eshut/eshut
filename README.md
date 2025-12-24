@@ -33,8 +33,6 @@ Software Automation & Quality Assurance
 
 <p align="left">My name is Evgeny Shut<br>
 <br>- 🔭 I’m a software automation expert, bringing nearly 6+ years of hands-on experience as an engineer in several IT companies
-<br>- ⚡ Currently leading a team of 4 engineers building applications for businesses
-<br>- 🔥 I'm taking personal projects in my free time - feel free to contact me</p>
 
 #### 
 🛠️ Example of my approach: [PlayWright API/UI testing and automation Framework on Python](https://github.com/eshut/Inject-Framework)
